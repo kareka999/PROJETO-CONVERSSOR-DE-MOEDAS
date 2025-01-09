@@ -7,8 +7,10 @@
 }
 
 body{
-    background-color: #e6e6ec;
-}
+    
+    background: url('./assets/dolar-img.jpg')
+    
+    }
 
 .imagen-gif{
     width: 200px;
@@ -89,12 +91,12 @@ section{
 }
 
 .currency{
-    color: #7777;
+    color: #0000008e;
 font-size: 14px;
 }
 
 .currency-value, .currency-value-to-convert{
-    color:#5555 ;
+    color:#000000a7 ;
     font-weight:700 ;
     font-size: 20px;
 
